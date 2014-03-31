@@ -1,4 +1,4 @@
-﻿# 安装说明.txt
+﻿# 安装说明
 
 + 常用路径
   - 安装路径: http://yoursite/install
