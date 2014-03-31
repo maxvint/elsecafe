@@ -15,8 +15,8 @@
   - _runtime、data、config、install目录需要可写权限(777)
   - 升级用户，请看升级说明（注意升级前做好备份）
 
-+ ThinkSNS V3 安装、升级说明
-  http://demo.thinksns.com/t3/index.php?app=weiba&mod=Index&act=postDetail&post_id=640
++ ThinkSNS V3 安装、升级说明:
+  <http://demo.thinksns.com/t3/index.php?app=weiba&mod=Index&act=postDetail&post_id=640>
 
 + ThinkSNS V3 常见问题解答
-  http://demo.thinksns.com/t3/index.php?app=weiba&mod=Index&act=postDetail&post_id=641
+  <http://demo.thinksns.com/t3/index.php?app=weiba&mod=Index&act=postDetail&post_id=641>
